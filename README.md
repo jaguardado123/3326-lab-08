@@ -43,16 +43,20 @@ For this assignment you will practice working with the following ranges.
 * **Red:** [0, 45)
 * **Green:** [-90, -45) and [45, 90]
 
-<img src="/img/Ranges.png" width="300">
 
-Your code should look like:
+<img src="/img/Ranges.png" width="400">
+
+
+Prompt the user to input any real number, then output the color of the range their number is in.
+
+Your output should look like:
 
 ```
-Welcome to my Letter Grade Calculator.
+Welcome to my Range Calculator.
 
-Input a score: 79.99999
+Input any real number: -33.33
 
-The letter grade is C.
+Your number is in range BLUE.
 ```
 
 ## Submit your assignment
