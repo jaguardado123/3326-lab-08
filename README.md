@@ -39,7 +39,7 @@ Interval notation is written using square [] or () round brackets to indicate th
 
 For this lab assignment use the picture below to guide you.
 
-![Image of your ranges](/src/Ranges.java)
+![Image of your ranges](/img/Ranges.png)
 
 Your code should look like:
 
