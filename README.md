@@ -37,9 +37,13 @@ Interval notation is written using square [] or () round brackets to indicate th
 
 **Find the Range**
 
-For this lab assignment use the picture below to guide you.
+For this assignment you will practice working with the following ranges.
 
-![Image of your ranges](/img/Ranges.png)
+* **Blue:** [-45, 0)
+* **Red:** [0, 45)
+* **Green:** [-90, -45) and [45, 90]
+
+![Image of your ranges](/img/Ranges.png | width=300)
 
 Your code should look like:
 
