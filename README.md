@@ -43,7 +43,7 @@ For this assignment you will practice working with the following ranges.
 * **Red:** [0, 45)
 * **Green:** [-90, -45) and [45, 90]
 
-![Image of your ranges](/img/Ranges.png | width=300)
+<img src="/img/Ranges.png" width="300">
 
 Your code should look like:
 
