@@ -40,7 +40,7 @@ For this assignment you will practice working with the following ranges.
 * **RED:** `[0, 45)`
 * **GREEN:** `[-90, -45)` and `[45, 90]`
 
-<img src="img/ranges.png" width="400px">
+<img src="img/Ranges.png" width="400px">
 
 Prompt the user to input any real number, then output the color of the range their number is in.
 
