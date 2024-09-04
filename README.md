@@ -1,4 +1,4 @@
-# Lab Assignment 07
+# Lab Assignment 08
 
 In this lab you will practice working with ranges and intervals.
 
