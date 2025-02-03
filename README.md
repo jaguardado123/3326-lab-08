@@ -44,10 +44,12 @@ For this assignment you will practice working with the following ranges.
 
 Prompt the user to input any real number, then output the color of the range their number is in.
 
-**Expected Output:**
+**Suggested Output:**
 
 <img src="img/lab7-expected.png" width="400px">
 
 ## Submit your assignment
 
-To submit your lab assignment click on the **Source Control** icon (3 circles with 2 lines) on your leftside navbar. Next, click on the **+** symbol next to **Changes** to stage your changes. Lastly, add a commit message (ex: "First commit") and click **Commit** then **Sync Changes**. And you're done!
+[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_08.pdf)
+
+[How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
