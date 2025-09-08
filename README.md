@@ -1,6 +1,6 @@
-# Lab Assignment 08
+# Lab 08
 
-In this lab you will practice working with ranges and intervals.
+In this lab you will practice working with **intervals and ranges**.
 
 Same as the previous labs, you need to set up your workspace (class and main() method).
 
@@ -48,8 +48,14 @@ Prompt the user to input any real number, then output the color of the range the
 
 <img src="img/lab7-expected.png" width="400px">
 
-## Submit your assignment
+<br>
 
-[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_08.pdf)
+**Grading Criteria:**
+| Criteria | Points |
+|---|---|
+| Program takes real (decimal) numbers as input. | 10 |
+| Program outputs the correct color according to the range line graph provided. | 60 |
+| File and class are named Ranges | 20 |
+| Class is public | 10 |
 
 [How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
